@@ -12,3 +12,5 @@ third update with GitBash
 
 third update with TortoiesGit
 
+final edit GitBash
+
