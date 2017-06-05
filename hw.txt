@@ -1,2 +1,4 @@
 New line added
 Resolve
+Make conflict
+
